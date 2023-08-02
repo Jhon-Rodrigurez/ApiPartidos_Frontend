@@ -1,4 +1,4 @@
-# ApiPartidos_Frontend
+# partidos_react
 SPA del repositorio Api partidos de Java spring boot. Este es el front-end construido con la librería React para las interfaces de usuario.
 
 # Que debes tener instalado para correr el proyecto
